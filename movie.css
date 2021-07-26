@@ -117,6 +117,7 @@
   /* ===================================SEARCH BAR============================================= */
 form input{
     background-color: #272727;
+    color: white;
     border: none;
     border-bottom: 2px solid #fddb3a;
 }
